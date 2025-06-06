@@ -1,0 +1,5 @@
+magnetism classifier 
+    predicts whether given atomic composition and structure will have magnetic ground state
+
+
+TI vs TSM on connectivity graphs outlined in 'graph theory for topological quantum chemistry' paper be Jen Cano et. al. 
